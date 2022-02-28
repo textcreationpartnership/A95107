@@ -1,0 +1,268 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true narrative of the proceedings at the sessions-house in the Old-Bayly, which begun on Wednesday the 30th of April 1679. and ended on Fryday the second of Mayfollowing [sic]. Being a true relation of the tryal and condemnation of a Romish priest, for high-treason. With the tryal of the maid for setting her masters house on fire in Holborn, as also of two persons for counterfeiting his Majesties coin, and two women for murdering their bastard children. With the number of the persons that received sentence of death, burn'd in the hand, and to be transported, vvith allowance.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95107</idno>
+            <idno type="STC">Wing T2827</idno>
+            <idno type="STC">ESTC R232188</idno>
+            <idno type="EEBO-CITATION">99897854</idno>
+            <idno type="PROQUEST">99897854</idno>
+            <idno type="VID">137398</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95107)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 137398)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2537:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true narrative of the proceedings at the sessions-house in the Old-Bayly, which begun on Wednesday the 30th of April 1679. and ended on Fryday the second of Mayfollowing [sic]. Being a true relation of the tryal and condemnation of a Romish priest, for high-treason. With the tryal of the maid for setting her masters house on fire in Holborn, as also of two persons for counterfeiting his Majesties coin, and two women for murdering their bastard children. With the number of the persons that received sentence of death, burn'd in the hand, and to be transported, vvith allowance.</title>
+                  <author>England and Wales. Court of Quarter Sessions of the Peace (London)</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for D. M.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1679.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Lincoln's Inn Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Crime --  England --  Early works to 1800.</term>
+               <term>Criminals --  England --  Early works to 1800.</term>
+               <term>Trials --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:137398:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 73 -->
+            <p>A TRUE NARRATIVE Of the Proceedings at the Seſſions-Houſe IN THE OLD-BAYLY, Which begun on <hi>Wedneſday</hi> the 30th of <hi>April</hi> 1679. and ended on <hi>Fryday</hi> the ſecond of <hi>May</hi>  following. Being a True Relation of the Tryal and Condem<g ref="char:EOLhyphen"/>nation of a Romiſh Prieſt, for High-Treaſon. With the Tryal of the Maid for ſetting her Maſters Houſe on Fire in <hi>Holborn,</hi> as alſo of two Perſons for Counterfeiting his Majeſties Coin, and two Women for Murdering their Baſtard Children.</p>
+            <p>WITH <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he number of the perſons that received Sentence of Death, Burn'd in the hand, and to be tranſported,</p>
+            <p>VVith Allowance.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>D. M.</hi> 1679.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:137398:2"/>
+            <!-- PDF PAGE 74 -->
+            <head>The Proceedings at the SESSIONS-HOUSE In the OLD-BAYLY, were as followeth.</head>
+            <p>OF the many Malefactors here tryed, the moſt material and notorious were, Two perſons, who together with a Con<g ref="char:EOLhyphen"/>federate of theirs that fled for it, had broke into a Gentlemans Chamber of <hi>Clements Lane,</hi> and from his Chamber into his Study, where they rifled his Truncks, and took away 515 <hi>l.</hi> in Moneys: they made made their way through ſome Chamber next adjoyning to that robbed where, one having entertained the other two to lodge with him for ſe<g ref="char:EOLhyphen"/>veral nights, they ſo contrived their buſineſs as to break a Hole in their own Wall behind their Beds head with a ſhort but ſtrong Dagger, which was produced in Court: the Rubbiſh which was ſworn by the Ividence to be to the quantity of a Buſhel or two fell into their own chamber where they lay, ſo that no ſign of any ſuch breach could be diſco<g ref="char:EOLhyphen"/>vered in the Chamber of the Gentleman robbed: Next they met with a Wainſcot Pane, wherewith the Wall on the other ſide was lined, which with great Art they took down at a time when they knew the Gentleman robbed to be from home; the Gen<g ref="char:EOLhyphen"/>tleman's Beds head was the next oppoſition they met with, but by main force they made a ſhift to remove the Bed, and make their entrance to a miſ<g ref="char:EOLhyphen"/>chief: Having rifled the Truncks, and taken away the 515 <hi>l.</hi> they retreated through the breach they had
+<pb n="3" facs="tcp:137398:2"/>
+               <!-- PDF PAGE 74 -->made in the Wall; the Proſecuter at his return, diſcovering his misfortune, cauſes the Porter of the houſe to view his Chambers, and having juſt ſuſ<g ref="char:EOLhyphen"/>picion of theſe his Neighbours, orders the Porter to ſeize upon the Owner of the next Chamber, upon his next ſight, who accordingly coming home late that night, with two Swords, was laid hold on by the Porter. The perſon pleads innocence and no want of mony to invite him to ſuch an Attempt; as <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lſo that the other his Chamber-fellows (the Parties <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ndicted) had a Key to the Chamber, and might do <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> without his knowledge, he deſires that his Mo<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>her and another Witneſs may be heard in his behalf, <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ut both failed to appear, though often called in Court; the other Priſoner then at the Bar conſeſſed <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>is having gone from his Maſter to <hi>Canterbury</hi> and <hi>
+                  <gap reason="illegible: in gutter" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>al</hi> with the Party which fled from this Fact, who <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eing afraid of his diſcovering him, gave him <hi>
+                  <gap reason="illegible: in gutter" extent="2+ letters">
+                     <desc>••…</desc>
+                  </gap>os.</hi> to bear his charges home again, and lent him as the Priſoner calls it, 10 <hi>l.</hi> with which he returns; taken by Capt. <hi>Richardſon,</hi> and committed, and <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pon full Evidence both were brought in guilty of <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Felony and Burglary.</p>
+            <p>The next of note was a perſon that was arraigned <gap reason="illegible: in gutter" extent="2 letters">
+                  <desc>••</desc>
+               </gap>r killing a Footman upon this occaſion. On the <hi>
+                  <gap reason="illegible: in gutter" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>th</hi> of <hi>March,</hi> about 11 at night, the Footman <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eeting this Perſon in the Street asked <hi>who came <gap reason="illegible: in gutter" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ere;</hi> anſwer was made, a Gentleman; the Foot<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>an told him, (with the interpoſition of an Oath) <gap reason="illegible: in gutter" extent="2 letters">
+                  <desc>••</desc>
+               </gap>at he was none; whereupon the Priſoner ſtruck <gap reason="illegible: in gutter" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e Footman with his Cain; upon which the Foot<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>an preſs'd ſo hard, the Priſoner notwithſtanding
+<pb n="2" facs="tcp:137398:3"/>
+               <!-- PDF PAGE 75 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="3" facs="tcp:137398:3"/>
+               <!-- PDF PAGE 75 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="4" facs="tcp:137398:4"/>
+               <!-- PDF PAGE 76 -->endeavours to take him off, that he was forced to make uſe of his Sword and the Footman was kill'd. This being found a ſudden Fray, and no premedi<g ref="char:EOLhyphen"/>tated Malice between them, was brought in by the Jury Manſlaughter.</p>
+            <p>After this was Arraigned a Servant-Maid indicted for ſetting on fire her Maſters houſe, in the Pariſh of S. <hi>Andrews Holborn,</hi> in the County of <hi>Middleſex,</hi> on the 10th of <hi>April</hi> laſt; the Witneſs proved nothing againſt her; one affirmed that with a Fork, which upon the affright of the Fire he had taken up, he ſtirred up a Bundle of Rag<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap> or Cloathes in which he ſaw the Wick of <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Candle about two Inches in length on Fire i<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Room which was then burning, but withall de<g ref="char:EOLunhyphen"/>clared the oppoſite end of that Room wherein it wa<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap> found to be moſt on fire: The Priſoner could no<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap> hold in her tale about her abſence while the Fire wa<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in her Maſters Garret, where it broke out; for ſh<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of the two Maid-ſervants which her Maſter kep<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap> went laſt to Bed that night, and while they in th<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap> houſe were buſie about the fire, ſhe it ſeems w<gap reason="illegible: in gutter" extent="2 letters">
+                  <desc>••</desc>
+               </gap> miſſing; but the Evidence fixing nothing upon he<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſhe was by the <hi>Jury</hi> brought in not guilty.</p>
+            <p>A Woman Indicted for having on the fifteenth <hi>April</hi> laſt murdered a Male Baſtard Child, of whi<gap reason="illegible: in gutter" extent="2 letters">
+                  <desc>••</desc>
+               </gap> it ſeems ſhe had been delivered but an hour befor<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap> She was going with it, wrapt up in an Apron in <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Hand-basket, to bury it in the Church-yard, as <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> pretended; being diſcovered, was apprehended b<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> man, who called another to his aſſiſtance, and w<gap reason="illegible: in gutter" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> much a-do wrung the Hand-basket out of her han<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="5" facs="tcp:137398:4"/>
+               <!-- PDF PAGE 76 -->whereupon they ſent for a Midwife, who fearching found (as in Court ſhe ſwore it) that the Priſoner had then newly been delivered of a Child, that the Child was dead, but of perfect ſhape, and that ſhe had gone her full time with it: No marks were found a<g ref="char:EOLhyphen"/>bout the Child of any force or violence had been u<g ref="char:EOLhyphen"/>ſed to it: The Priſoner conf<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſſed ſhe was delivered of it in an Houſe of Office, but affirmed, that it was Still-born; which the <hi>Jury</hi> not crediting, upon hear<g ref="char:EOLhyphen"/>ing the Statute in that behalf read to them in open Court, brough her in guilty of the Murder.</p>
+            <p>Another Indicted for the murder of a Male-child found dead in her Maſters houſe; which being a publick houſe, and in a place where a Stranger might as well have laid it, and no Proof coming in directly againſt her, ſhe was brought in not guilty.</p>
+            <p>Two Perſons were Indicted for killing two men; but it being done upon provocation, and in heat of blood, the <hi>Jury</hi> found it Man-ſlaughter.</p>
+            <p>Afterwards was Arrainged for High-Treaſon, and Tryed, one <hi>Morgan,</hi> as being a Prieſt by Virtue of Authority derived from the Sea of <hi>Rome:</hi> Dr. <hi>Oats</hi> then preſent on the Kings behalf informed the Court upon Oath that the ſaid <hi>Morgan</hi> was a <hi>Romiſh</hi> Prieſt, and that he had particularly on the 25th of <hi>Auguſt</hi> laſt heard the Priſoner, and ſaw him in his Prieſts Robes in <hi>Cockpit-Alley</hi> reading Maſs, which the Pri<g ref="char:EOLhyphen"/>ſoner not denying, the <hi>Jury</hi> brought him in guilty of High-Treaſon.</p>
+            <p>A Souldier Indicted for robbing one <hi>Beckington, April</hi> the 18th, between nine and ten at night, upon the High way between <hi>London</hi> and <hi>H<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ndon.</hi> It ap<g ref="char:EOLhyphen"/>peared to the Court, that he took from the Proſecu<g ref="char:EOLhyphen"/>tor
+<pb n="6" facs="tcp:137398:5"/>
+               <!-- PDF PAGE 77 -->a Suit of Boys Cloaths, and ſeven ſhill<g ref="char:punc">▪</g> in moneys numbred; after which he bound the Proſecutor, and threw him into a Gravel-pit: upon full Evidence the <hi>Jury</hi> found him guilty of the Felony and Robbery.</p>
+            <p>A Young Man Indicted for waſhing, counterfeit<g ref="char:EOLhyphen"/>ing, and coyning ten mill'd half-Crown pieces, ten <hi>Elizabeth</hi> ſhillings, and ten ſhillings of the Coyn of King <hi>Charles</hi> the Firſt: he was apprehended in the Fact; whereupon certain pieces of Moneys finiſhed and unfiniſhed were taken from him, and produced in Court. The Priſoner pretended, that for five ſhillings he was hired only to boyl them for one living in the <hi>Minories;</hi> the <hi>Jury</hi> upon hearing the Evidence, and receiving directions from the Court about the Sta<g ref="char:EOLhyphen"/>tute on which he was Indicted, brought him in guilty of High-Treaſon.</p>
+            <p>A Souldier Arraigned f<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap> murdering a Pavier in <hi>Holbourn</hi> on the 31th of <hi>March</hi> laſt, by wounding him with a Shovel on the right ſide of the head; but upon Tryal, Provocations and Circumſtances being duly weighed, the <hi>Jury</hi> brought in the Priſoner only guilty of Man ſlaughter.</p>
+            <p>A Maid-ſervant to a <hi>French</hi> Merchant, Indicted by her Maſter for having feloniouſly taken away ſeveral Tortois-ſhell Fans, and counterfeit Amber Neck la<g ref="char:EOLhyphen"/>ces, which the Maſter proves to have been his own, and ſold by the Priſonet; but the Priſoner in her Defence gives the Court ample ſatisfaction that ſhe ſold theſe by Order of her Miſtreſs (for ſo the Priſon<g ref="char:EOLhyphen"/>er was ordered by her Maſter to own the Houſe<g ref="char:EOLhyphen"/>keeper, to whom it appear'd in Court he had given
+<pb n="7" facs="tcp:137398:5"/>
+               <!-- PDF PAGE 77 -->full power of ſelling thoſe commodities) the <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> brought in the Priſoner (who was a <hi>Proteſtant)</hi> not guilty; and the Proſecutor (being a <hi>Roma<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Catho<g ref="char:EOLhyphen"/>lick</hi>) was made to find Sureties for his Good Clear<g ref="char:EOLhyphen"/>ing.</p>
+            <p>One Indicted for Murthering her Baſtard Child, on the 12th. of <hi>March laſt,</hi> upon her Arraignment Confeſſed the Fact and ſeemed very Penitent: The Jury in their Verdict brought her in Guilty, and accordingly ſhe had Sentence paſſed upon her.</p>
+            <p>An Ancient Man Indicted for Seditious words which he had ſpoken againſt the King and the Proteſtant Religion: but the Evidence being ſome<g ref="char:EOLhyphen"/>what weak herein, and it appearing that the Pri<g ref="char:EOLhyphen"/>ſoner was Diſtracted, the Jury brought him in not Guilty.</p>
+            <p>A Man was Indicted for High-Treaſon for Coun<g ref="char:EOLhyphen"/>terfeiting the Kings Coin; In his Poſſeſſion were found Stamps for Spaniſh Piſtols, and two Coun<g ref="char:EOLhyphen"/>terfeit Spaniſh pieces, but they not being Coin currant in <hi>England</hi> and the Fact not being proved upon him as to the Coin of our King, ihe Priſo<g ref="char:EOLhyphen"/>ner was brought in not Guilty.</p>
+            <p>Another there was one who ſtood Indicted for Counterfeiting the Kings Coin, he Confeſſed that he had Braſs money of a Friend of his to Boyl for him, that thereby it might be brought to a paſſable Com<g ref="char:EOLhyphen"/>plexion, which Boiling, by Directions from the Bench, appearing to the Jury to fall under the the Statute againſt Counterfeiting any of the Kings Coin, the Priſoner was accordingly found Guilty of High Treaſon and Condemned to be Drawn, Hang'd and Quartered.</p>
+            <p>
+               <pb n="8" facs="tcp:137398:6"/>
+               <!-- PDF PAGE 78 -->
+There was a Man Indicted for Stealing a Brown-B<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y Horſe, upon his Araignment Confeſſed the Fact, and accordingly was brought in Guilty by the Jury, and received Sentence of Death.</p>
+            <p>A Woman was Arraigned for the Felonious ta<g ref="char:EOLhyphen"/>king of a Silk Farrendine Gown, with two Petti<g ref="char:EOLhyphen"/>coats and a Waſtcoat on the 15th of <hi>March</hi> laſt, was upon full Evidence Convicted and accordingly Con<g ref="char:EOLhyphen"/>demned.</p>
+            <p>There were many Tryed at this Seſſions, ſome for Felonies, ſome for Burglaries, and ſome for Murders, for which Crimes fourteen received Sen<g ref="char:EOLhyphen"/>tence of Death, <hi>viz.</hi> nine Men and five Women; nineteen Burn'd in the Hand, and two received the Mercy of the Court for Tranſportation, and the Prieſt and Money-boiler before mentioned, were Condemned to be Drawn, Hang'd and Quartered and their Quarters to be diſpoſed of at his Majeſties Pleaſure.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
